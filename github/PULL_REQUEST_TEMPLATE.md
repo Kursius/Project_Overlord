@@ -1,4 +1,5 @@
 Vardas: 
+
 Keičiama / pridedama / išimama funkcija : 
 
 Tikslūs pakeitimai: 
