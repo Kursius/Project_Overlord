@@ -1,5 +1,7 @@
 # Project_Overlord
 
+
+===============================================================================================================
 Keletas taisyklių code`inant:
 
 1. Keisdami, trindami ar kurdami failus/kodą, visada susikuriam naują branch`ą.
@@ -8,3 +10,4 @@ Keletas taisyklių code`inant:
 4. Pull`inę parašom į grupę ir paprašom manęs (Martyno) patikrinti kodą/modelius/ar kitą ką įkėlėt.
 5. NESPAUDŽIAM MERGE patys, taip galima sugadinti kodą/išimti/įdėti tą, ko nereikia.
 6. Jei tik kas neaišku - klausiam grupėje arba tiesiogiai pas mane.
+===============================================================================================================
